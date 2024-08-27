@@ -4,7 +4,8 @@
 
 Trabajo en transformar datos en información valiosa que ayude a tomar decisiones estratégicas. Me gusta aprender continuamente sobre nuevas tecnologías y herramientas.
 
-¡Bienvenid@ a mi GitHub! 🚀 Aquí encontrarás proyectos interesantes que reflejan mi amor por los datos y la programación. ¡Espero que te gusten!
+¡Bienvenid@ a mi GitHub! 🚀 Aquí encontrarás proyectos interesantes sobre mi trabajo en el ámbito de los datos y el desarrollo. ¡Espero que te gusten!
+
 
 ---
 
@@ -14,7 +15,7 @@ Hi there! 👋 I'm Borja, a **developer** specialized in **Python** 🐍 with ex
 
 I work on transforming data into valuable information that helps drive strategic decision-making. I enjoy continuously learning about new technologies and tools.
 
-Welcome to my GitHub! 🚀 Here, you'll find interesting projects that reflect my love for data and programming. Hope you enjoy them!
+Welcome to my GitHub! 🚀 Here, you'll find interesting projects about my work in the field of data and development. Hope you enjoy them!
 
 ---
 
